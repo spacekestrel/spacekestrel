@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @spacekestrel
 - 👀 I’m interested in cookies and dark side
-- 🌱 I’m currently learning how to survive in Russia
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me  - by email
 
